@@ -1,1 +1,2 @@
-Hello, you are welcomed here.
+Hi, you are welcomed here.
+My readme is up to date
